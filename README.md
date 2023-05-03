@@ -18,6 +18,3 @@
 - [ ] `2023/05/16` `16차` 453p ~ 481p(29p)
 - [ ] `2023/05/25` `17차` 482p ~ 506p(25p)
 - [ ] `2023/05/30` `18차` 507p ~ 547p(41p)
-
-- X : Sprak, Scala, Docker(K8s,) Kafka, Hadoop
-- O : Spring, DesignPattern, Network, Gradle/Maven, DB, OS
